@@ -22,9 +22,15 @@ Features
 Backtesting Capabilities:
 Test the trading strategies over historical data to see potential performance.
 Crypto Currency Support: See how the pre-made strategy performs on selected cryptocurrencies with a selected amount of candles (max 999).
-Interactive UI: A user-friendly interface that allows for easy navigation and operation.
-Extensive Data Libraries: Access to a vast collection of historical data for various assets.
-Performance Metrics: Get detailed insights into how the strategy might have performed with metrics like returns, drawdown, and hit ratio
+
+Interactive UI:
+A user-friendly interface that allows for easy navigation and operation.
+
+Extensive Data Libraries:
+Access to a vast collection of historical data for various assets.
+
+Performance Metrics:
+Get detailed insights into how the strategy might have performed with metrics like returns, drawdown, and hit ratio
 
 AI Trading Bot Project:
 I'm currently working on implementing an AI-driven trading bot which will use machine learning techniques to predict market movements and execute trades. Stay tuned for updates on this exciting feature!
