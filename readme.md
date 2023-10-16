@@ -46,3 +46,18 @@ This project is licensed under the MIT License. See LICENSE.md for more details.
 Your Sincerly, 
 
 Loïc Hänggeli
+
+
+Here are fews examples of the Interface : 
+
+![LH Logo](LH_logo.png)
+
+![Home Bot](home_bot.png)
+
+![Main Bot](main_bot.png)
+
+![Closed Bot](closed_bot.png)
+
+![Analysis Bot](analysis_bot.png)
+
+![Settings Bot](settings_bot.png)
